@@ -5,3 +5,4 @@ I'm on banch of develop!
 I'm a text.
 分支推送测试。
 I'm the owiner of this file.
+I'm another people .
